@@ -1,4 +1,6 @@
 [![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/hyperium/hyper/master/LICENSE)
+[![](https://jitpack.io/v/bhavin-qfonapp/Android-video-trimmer-bhavin.svg)](https://jitpack.io/#bhavin-qfonapp/Android-video-trimmer-bhavin)
+
 
 # Android-video-trimmer
 

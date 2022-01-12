@@ -62,8 +62,8 @@ afterEvaluate {
 
                 // You can then customize attributes of the publication as shown below.
                 groupId = 'com.github.bhavin-qfonapp'
-                artifactId = 'base'
-                version = '1.0.0'
+                artifactId = 'trimy'
+                version = '1.0.1'
             }
             // Creates a Maven publication called “debug”.
 //            debug(MavenPublication) {
